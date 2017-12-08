@@ -18,7 +18,6 @@ for line in lines:
 
 print('solution 1 is: %s' % validlines)
 
-
 #------------------------------------------------------------
 
 # and here is solution 2:
